@@ -8,6 +8,8 @@ A interface apresenta um cartão central onde são exibidos o tipo de cliente, o
 1. Digite o seu consumo
 2. Voce é cliente Residencial, Comercial ou Industrial?
 
+Logo após colocar essas informações o site da o resultado obtido do consumo de energia e o valor obtido.
+
 ## Tecnologias Utilizadas
 - HTML
 - CSS
