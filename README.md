@@ -27,3 +27,9 @@ No terminal do VS Code digite: git clone https://github.com/usuario/nome-do-repo
 Colocaria uma opção de deixar salvo todos os cálculos já pedidos e colocaria uma opção de mostrar se caso a pessoa for "Residencial, Comercial ou Industrial", o que modificaria no preço.
 
 ## O que aprendi
+Aprendi coisas sobre o conteúdo em si que envolve matemática, e reforcei o conteúdo sobre if e else do JavaScript.
+
+<img width="324" height="129" alt="Captura de tela 2025-12-15 212606" src="https://github.com/user-attachments/assets/919b431a-80a4-438f-b9ba-a840d25a8372" />
+
+## Autor
+Aline Rodrigues Silva - Turma de Tecnologia em Informática para Internet (Vespertino) - Senac DF
